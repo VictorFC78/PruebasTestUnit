@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancAvilesLogic", "BancAvilesLogic\BancAvilesLogic.csproj", "{1F451358-3E89-4DDB-BE16-358FDAEA2007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancAvilesTest", "BancAvilesTest\BancAvilesTest.csproj", "{43BB9375-804A-45DF-B464-D1A98C059AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F451358-3E89-4DDB-BE16-358FDAEA2007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F451358-3E89-4DDB-BE16-358FDAEA2007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F451358-3E89-4DDB-BE16-358FDAEA2007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F451358-3E89-4DDB-BE16-358FDAEA2007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BB9375-804A-45DF-B464-D1A98C059AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BB9375-804A-45DF-B464-D1A98C059AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BB9375-804A-45DF-B464-D1A98C059AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BB9375-804A-45DF-B464-D1A98C059AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11911386-0F63-46BB-A78A-109FBBE3658D}
+	EndGlobalSection
+EndGlobal
